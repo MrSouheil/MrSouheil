@@ -21,4 +21,4 @@
 
 <h3 align="left">Listening to:</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vn432xskbyhvwz17hwn8lfhq9&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=vn432xskbyhvwz17hwn8lfhq9&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=vn432xskbyhvwz17hwn8lfhq9&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)]]
