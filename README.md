@@ -5,7 +5,7 @@
 
 - Currently working on [NFTune](https://github.com/MrSouheil/NFTune)
 
-- 👨‍💻 All of my projects are available at [[Soon]]([Soon])
+- Check out my [portfolio](https://souheil.netlify.app/)
 
 - I'm learning about **mysql, pandas, typescript**
 
