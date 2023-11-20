@@ -7,7 +7,7 @@
 
 - Check out my [portfolio](https://souheil.netlify.app/)
 
-- I'm learning about **mysql, pandas, typescript**
+- Currently training in Dev Ops with 4Finance.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
