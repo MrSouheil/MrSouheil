@@ -7,7 +7,7 @@
 
 - Check out my [portfolio](https://souheil.netlify.app/)
 
-- Currently training in Dev Ops with 4Finance.
+- Currently training as full stack web developer at 4Finance.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
