@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Souheil</h1>
+<h1 align="center"> <img width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> Hi, I'm Souheil</h1>
 <h3 align="center">Aspiring Software Engineer and UI/UX Designer from Lebanon.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsouheil&label=Profile%20views&color=1d7c5c&style=flat" alt="mrsouheil" /> </p>
