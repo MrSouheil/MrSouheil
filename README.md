@@ -7,7 +7,7 @@
 
 - Check out my [portfolio](https://souheil.netlify.app/)
 
-- Currently training as full stack web developer at 4Finance.
+- Currently an intern as full stack web developer at [Related](https://related.me/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
