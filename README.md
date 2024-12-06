@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsouheil&label=Profile%20views&color=1d7c5c&style=flat" alt="mrsouheil" /> </p>
 
-- Check out my [portfolio](https://souheil.netlify.app/)
+- Check out my [portfolio](https://souheil.me/)
 
 - Currently a full stack web developer at [Related](https://related.me/).
 
