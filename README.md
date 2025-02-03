@@ -5,7 +5,7 @@
 
 - Check out my [portfolio](https://souheil.me/)
 
-- Currently a full stack web developer at [Related](https://related.me/).
+- Currently a full stack web developer at <a href="https://related.me/" title="Started in February 2024">Related</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
